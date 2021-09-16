@@ -1,0 +1,34 @@
+body{
+    background-color: #fff;
+    min-height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.color-picker{
+    position: relative;
+}
+.color-indicator{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background-color: #fff;
+    border-radius: 20px;
+    vertical-align: middle;
+}
+#color-picker{
+    display: inline;
+    vertical-align: middle;
+    margin-left: 40px;
+}
+button{
+    padding: 10px;
+    border: none;
+    border-radius: 100px;
+    margin-left: 50px;
+}
+button:active{
+    background-color: lightgray;
+    color: white;
+}
