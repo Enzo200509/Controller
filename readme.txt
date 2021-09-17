@@ -1,0 +1,2 @@
+om de j node te starten moet je naar de directory waar de index.js staat met "cd ../../index.js" en dan type je in de cmd "node index.js" 
+en dan start de localhost op de port die word aangegeven en dan moet je dat in de browser intypen.
